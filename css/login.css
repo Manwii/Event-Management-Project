@@ -1,0 +1,39 @@
+
+body{
+  font-family: 'Montserrat';
+  color: black;
+  text-align: center;
+  background-image: url("../image/finalbg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: 0px;
+  /*border-bottom: 0px;*/
+  margin: 0px;
+}
+
+p{
+  color:black;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.userinput{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+h2{
+  margin-bottom: 5%;
+}
+
+#sub{
+  border-radius: 25px;
+  background: #8AF3FF;
+  height: 50px;
+  width: 150px;
+  font-family: "Montserrat";
+  font-size: 1.2em;
+  margin-bottom: 4px;
+
+}
